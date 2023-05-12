@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-12T13:29:00 IST" name="Default suite" finished-at="2023-05-12T13:29:08 IST" duration-ms="8084">
+    <groups>
+    </groups>
+    <test started-at="2023-05-12T13:29:00 IST" name="Default test" finished-at="2023-05-12T13:29:08 IST" duration-ms="8084">
+      <class name="authentication.Oauth2Chiken">
+        <test-method signature="getoauth()[pri:1, instance:authentication.Oauth2Chiken@60015ef5]" started-at="2023-05-12T13:29:00 IST" name="getoauth" finished-at="2023-05-12T13:29:03 IST" duration-ms="3549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getoauth -->
+        <test-method signature="get_the_Number_of_Eggs_Collected_Today()[pri:2, instance:authentication.Oauth2Chiken@60015ef5]" started-at="2023-05-12T13:29:04 IST" name="get_the_Number_of_Eggs_Collected_Today" finished-at="2023-05-12T13:29:04 IST" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_the_Number_of_Eggs_Collected_Today -->
+        <test-method signature="retrieves_user_that_tied_to_the_access_token()[pri:3, instance:authentication.Oauth2Chiken@60015ef5]" started-at="2023-05-12T13:29:04 IST" name="retrieves_user_that_tied_to_the_access_token" finished-at="2023-05-12T13:29:05 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- retrieves_user_that_tied_to_the_access_token -->
+        <test-method signature="unlock_the_Barn()[pri:4, instance:authentication.Oauth2Chiken@60015ef5]" started-at="2023-05-12T13:29:05 IST" name="unlock_the_Barn" finished-at="2023-05-12T13:29:06 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unlock_the_Barn -->
+        <test-method signature="put_the_Toilet_Seat_Down()[pri:5, instance:authentication.Oauth2Chiken@60015ef5]" started-at="2023-05-12T13:29:06 IST" name="put_the_Toilet_Seat_Down" finished-at="2023-05-12T13:29:06 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put_the_Toilet_Seat_Down -->
+        <test-method signature="feed_Your_Chickens()[pri:6, instance:authentication.Oauth2Chiken@60015ef5]" started-at="2023-05-12T13:29:06 IST" name="feed_Your_Chickens" finished-at="2023-05-12T13:29:07 IST" duration-ms="1064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feed_Your_Chickens -->
+        <test-method signature="collect_Eggs_from_Your_Chickens()[pri:7, instance:authentication.Oauth2Chiken@60015ef5]" started-at="2023-05-12T13:29:07 IST" name="collect_Eggs_from_Your_Chickens" finished-at="2023-05-12T13:29:08 IST" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- collect_Eggs_from_Your_Chickens -->
+      </class> <!-- authentication.Oauth2Chiken -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
